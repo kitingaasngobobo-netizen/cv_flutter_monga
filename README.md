@@ -1,17 +1,30 @@
-# cv_app_monga
+# CV Flutter - Monga
 
-A new Flutter project.
+Application CV personnelle réalisée en Flutter dans le cadre du TP.
 
-## Getting Started
+## Auteur
+- **Nom :** Monga Kitinga
+- **Formation :** Étudiant en Informatique
+- **Ville :** Goma, RDC
 
-This project is a starting point for a Flutter application.
+## Description
+Cette application présente mon CV de manière interactive :
+- Page d'accueil avec ma photo et ma présentation
+- Mes compétences en Flutter, Dart, HTML, CSS
+- Mon parcours et mes projets
+- Page de contact
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies utilisées
+- Flutter
+- Dart
+- VS Code
+- Git & GitHub
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Comment lancer le projet
+```bash
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Lien GitHub
+https://github.com/kitingaasngobobo-netizen/cv_flutter_monga
