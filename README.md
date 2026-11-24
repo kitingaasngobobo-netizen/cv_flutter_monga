@@ -1,3 +1,27 @@
+# CV Flutter - Monga
+
+Application de CV personnel développée en Flutter.
+
+🔗 **Lien GitHub du projet :**
+https://github.com/kitingaasngobobo-netizen/cv_flutter_monga.git
+
+## 📱 Description
+Application mobile qui présente le CV de Monga avec une interface moderne et intuitive.
+
+## ✨ Fonctionnalités
+- Affichage du profil
+- Expériences professionnelles
+- Compétences
+- Formation
+- Contact
+
 ## 🎥 Vidéo de Démonstration
 
-- 👉 **[Muturwande sivhiwa](https://github.com/kitingaasngobobo-netizen/ma_video/blob/main/WhatsApp%20Video%202026-11-24%20at%2011.12.11.mp4)**
+👉 **[Voir la vidéo de démonstration](https://drive.google.com/file/d/1ef_x6apVi3MsRx69bfnylY0avcmJKHGl/view?usp=drivesdk)**
+
+## 🚀 Installation
+```bash
+git clone https://github.com/kitingaasngobobo-netizen/cv_flutter_monga.git
+cd cv_flutter_monga
+flutter pub get
+flutter run
