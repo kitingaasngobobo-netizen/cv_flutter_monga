@@ -1,30 +1,25 @@
-# CV Flutter - Monga
+# CV Flutter Monga - Gestion des Étudiants
 
-Application CV personnelle réalisée en Flutter dans le cadre du TP.
+Application mobile Flutter pour la gestion des étudiants (CRUD complet) connectée à une API PHP + MySQL.
 
-## Auteur
-- **Nom :** Monga Kitinga
-- **Formation :** Étudiant en Informatique
-- **Ville :** Goma, RDC
+## 🎥 Vidéo de Démonstration
 
-## Description
-Cette application présente mon CV de manière interactive :
-- Page d'accueil avec ma photo et ma présentation
-- Mes compétences en Flutter, Dart, HTML, CSS
-- Mon parcours et mes projets
-- Page de contact
+👉 **[Voir la vidéo de démonstration](https://github.com/kitingaasngobobo-netizen/ma_video/blob/main/WhatsApp%20Video%202026-11-24%20at%2011.12.11.mp4)**
 
-## Technologies utilisées
-- Flutter
-- Dart
-- VS Code
-- Git & GitHub
+## ✨ Fonctionnalités
 
-## Comment lancer le projet
-```bash
-flutter pub get
-flutter run
-```
+- ✅ Afficher la liste des étudiants
+- ✅ Ajouter un nouvel étudiant
+- ✅ Modifier un étudiant existant
+- ✅ Supprimer un étudiant
+- ✅ Recherche et affichage en temps réel
 
-## Lien GitHub
-https://github.com/kitingaasngobobo-netizen/cv_flutter_monga
+## 🛠️ Technologies Utilisées
+
+- **Frontend :** Flutter / Dart
+- **Backend :** PHP
+- **Base de données :** MySQL
+- **API :** REST (JSON)
+- **Serveur local :** XAMPP / Apache
+
+## 📁 Structure du Projet
